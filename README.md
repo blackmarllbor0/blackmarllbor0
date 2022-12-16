@@ -135,6 +135,25 @@ My advantages in :
     width="40"
     height="40"
   />
+  <img 
+    src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+    title="SASS"
+    alt="SASS"
+    width="40"
+    heigth="40"
+  />
 </div>
+
+<hr />
+:fire: My Stats :<br /><br />
+
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmarllbor0&layout=demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+</div>
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=0-MR-WIZARD-0&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
