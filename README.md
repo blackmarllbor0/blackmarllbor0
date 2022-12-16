@@ -114,6 +114,27 @@ My advantages in :
     width="40"
     height="40"
   />
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg"
+    title="NestJs"
+    alt="NestJs"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
+    title="Docker"
+    alt="Docker"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
+    title="PostgreSql"
+    alt="PostgreSql"
+    width="40"
+    height="40"
+  />
 </div>
 
 </div>
