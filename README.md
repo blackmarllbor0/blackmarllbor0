@@ -155,6 +155,6 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmarll
 </div>
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=0-MR-WIZARD-0&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=blackmarllbor0&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
