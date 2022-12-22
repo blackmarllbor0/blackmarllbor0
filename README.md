@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="![image](https://user-images.githubusercontent.com/98112902/209144641-df3f4800-070f-4b68-8116-8f3d31c7e612.png)"style="border-radius: 50%" width="300px" alt="logo" />
+    <img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1626540203825-JKT6PNEGJ6784CAFH0GR/surfing-js.png"style="border-radius: 50%" width="300px" alt="logo" />
   </div>
   <hr />
   <div>
