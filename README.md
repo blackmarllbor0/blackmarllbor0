@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://psv4.userapi.com/c240331/u531089636/docs/d17/1ebebfc5c534/rounded-in-photoretrica.png?extra=QiaakpcKZ_HwyN1U-LBaZJMaGuA42NLI2GxbxGvQhi79LWKGxde1nstkN2PwS5Zy1pTnS5Uhk3UWxG2llgU7E7cEx52YDaj6ANAgvGSiWFqjjkGoFXs8OtvkCmk87viJ5Oa-4mpSOMvP5WzO_UO1rzA"style="border-radius: 50%" width="300px" alt="logo" />
+    <img src="![image](https://user-images.githubusercontent.com/98112902/209144641-df3f4800-070f-4b68-8116-8f3d31c7e612.png)"style="border-radius: 50%" width="300px" alt="logo" />
   </div>
   <hr />
   <div>
