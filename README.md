@@ -20,8 +20,6 @@
   <div>
   <hr />
 </div>
-    ### 
-![snake gif](https://github.com/antisedativ/antisedativ/blob/output/github-contribution-grid-snake.svg)
 <div align="left">
   <div>
     :man_technologist: About Me : <br /><br />
