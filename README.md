@@ -11,8 +11,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
 - 🔭 I’m currently working on [create-project-struct](https://github.com/blackmarllbor0/create-project-struct)
 
 - 🌱 I’m currently learning **Golang**
