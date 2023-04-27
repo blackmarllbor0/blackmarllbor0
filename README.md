@@ -387,24 +387,6 @@
     </a>
 </p>
 
-
-
-<p>
-    <img align="left"
-         src="https://github-readme-stats.vercel.app/api?username=blackmarllbor0&show_icons=true&locale=en" 
-         alt="blackmarllbor0"
-     />
-</p>
-
- <p>
-    <img align="left"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=blackmarllbor0&" 
-         alt="blackmarllbor0"
-     />
-</p>
-
-<hr align="center" width="500" size="2" color="#ff0000" />
-
 <div align="center">
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blackmarllbor0&show_icons=true&locale=en&layout=compact"
