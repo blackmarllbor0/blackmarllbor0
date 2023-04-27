@@ -390,14 +390,14 @@
 
 
 <p>
-    <img align="center"
+    <img align="left"
          src="https://github-readme-stats.vercel.app/api?username=blackmarllbor0&show_icons=true&locale=en" 
          alt="blackmarllbor0"
      />
 </p>
 
  <p>
-    <img align="center"
+    <img align="left"
          src="https://github-readme-streak-stats.herokuapp.com/?user=blackmarllbor0&" 
          alt="blackmarllbor0"
      />
