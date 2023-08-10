@@ -15,7 +15,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 🔭 I’m currently working on [terminalGPT](https://github.com/blackmarllbor0/terminalGPT)
+- 🔭 I’m currently working on [authentication-audit](https://github.com/blackmarllbor0/authentication-audit)
 
 - 🌱 I’m currently learning **Golang**
 
