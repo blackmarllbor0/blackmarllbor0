@@ -32,14 +32,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-    <a href="https://codepen.io/blackmarllbor0" target="blank">
-        <img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"   
-             alt="blackmarllbor0" 
-             height="30" 
-             width="40"
-         />
-    </a>
     <a href="https://dev.to/blackmarllbor0" target="blank">
         <img align="center" 
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" 
@@ -48,34 +40,10 @@
              width="40"
          />
     </a>
-    <a href="https://stackoverflow.com/users/blackmarllbor0" target="blank">
+    <a href="https://stackoverflow.com/users/20593254/blackmarllbor0" target="blank">
         <img align="center" 
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
              alt="blackmarllbor0" 
-             height="30"
-             width="40"
-         />
-    </a>
-    <a href="https://codesandbox.com/blackmarllbor0" target="blank">
-        <img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" 
-             alt="blackmarllbor0"
-             height="30"
-             width="40"
-         />
-    </a>
-    <a href="https://instagram.com/blackmarllbor0" target="blank">
-        <img align="center" 
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-             alt="blackmarllbor0"
-             height="30"
-             width="40"
-         />
-    </a>
-    <a href="https://discord.gg/blackmarllbor0" target="blank">
-        <img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
-             alt="blackmarllbor0"
              height="30"
              width="40"
          />
