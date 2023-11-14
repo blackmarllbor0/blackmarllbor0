@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [UI-translator](https://github.com/blackmarllbor0/UI-translator)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning [ **Golang**, **Python**, **Typescript**, **clean architictures**, **DDD**, **and more** ]
 
 - 🤝 I’m looking for help with **StackOverFlow, chatGPT, Habr and more...**
 
